@@ -1,0 +1,3 @@
+class WeatherUtils {
+  // static String getWeatherIcon(String condition) => ...
+}

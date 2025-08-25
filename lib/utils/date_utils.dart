@@ -1,0 +1,3 @@
+class DateUtils {
+  // static String formatDate(DateTime date) => ...
+}
