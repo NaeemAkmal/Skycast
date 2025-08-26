@@ -1,8 +1,5 @@
 # ⛅ Sky Cast - Advanced Weather Forecasting App
 
-<div align="center">
-  <img src="flutter_01.png" alt="Sky Cast" width="300"/>
-</div>
 
 **Sky Cast** is a comprehensive weather forecasting mobile application built with Flutter, designed to provide accurate, real-time weather information with a beautiful and intuitive user interface. The app combines multiple weather data sources to deliver precise forecasts, interactive weather maps, and personalized weather insights.
 
